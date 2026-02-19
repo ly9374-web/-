@@ -1,0 +1,5 @@
+{
+  "name": "ly的测试游戏",
+  "description": "A lightweight survival web game with particle effects and physics collisions.",
+  "requestFramePermissions": []
+}
